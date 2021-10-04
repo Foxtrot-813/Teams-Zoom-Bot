@@ -1,6 +1,7 @@
 # This code will help you to automatically join and record meetings at a specific time for both Zoom and Teams.
 # The script will automatically turn off your microphone and camera before joining.
 
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:51.54%;position:relative;"><iframe width="260" height="134" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5p7fc1"></iframe></div><p><a href="https://imgflip.com/gif/5p7fc1">via Imgflip</a></p></div>
 
 # NB: Before you run the script.
 # Please note that the script runs the programs from default installation path for both Zoom and Teams.
