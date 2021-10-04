@@ -2,13 +2,13 @@
 # The script will automatically turn off your microphone and camera before joining.
 
 
-# NB: Befor you run the script.
-# Please note that the script runs the programs from defult installationn path for both Zoom and Teams.
-# If you have changed the defult installation path for Teams or Zoom, then you have to change it in the script too.
-# In some parts the script will simulate clicking and typing, please do not interupt the process once its started.
-# For recording part you have to go to Windows setting then Gaming then activate Xbox Game bar.
+# NB: Before you run the script.
+# Please note that the script runs the programs from default installation path for both Zoom and Teams.
+# If you have changed the default installation path for Teams or Zoom, then you have to change it in the script too.
+# In some parts the script will simulate clicking and typing, please do not interrupt the process once its started.
+# For recording part you have to go to Windows setting - Gaming -activate Xbox Game bar.
 
-# Your computer needs to be SIGNEDIN , It's strongly recommended to turn off sleep mode on your PC.
+# Your computer needs to be SIGNED IN , It's strongly recommended turning off sleep mode on your PC.
 # To do that:
 # Step 1
 # Go to Windows "Settings".
